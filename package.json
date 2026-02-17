@@ -1,0 +1,13 @@
+{
+  "name": "api-forge",
+  "version": "1.0.0",
+  "description": "Text & data utility API bundle — deployable to Cloudflare Workers",
+  "type": "module",
+  "scripts": {
+    "test": "node --test src/**/*.test.js",
+    "dev": "node src/server.js",
+    "deploy": "wrangler deploy"
+  },
+  "keywords": ["api", "cloudflare-workers", "text-processing", "utility"],
+  "license": "MIT"
+}

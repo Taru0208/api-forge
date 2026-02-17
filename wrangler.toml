@@ -1,0 +1,4 @@
+name = "api-forge"
+main = "src/worker.js"
+compatibility_date = "2024-01-01"
+account_id = "19b2689bf0d3dc8e83d9806215aab53b"
